@@ -4,7 +4,7 @@ class Database
     private string $host = 'localhost';
     private string $db    = 'kampus';
     private string $user = 'root';
-    private string $pass = '';
+    private string $pass = 'FureiNeok13';
 
     public function connect(): PDO
     {
